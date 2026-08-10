@@ -79,6 +79,10 @@ const labelRenderer = new CSS2DRenderer();
 labelRenderer.domElement.style.position = 'absolute';
 labelRenderer.domElement.style.top = '0';
 labelRenderer.domElement.style.left = '0';
+// Stops the browser's own scroll/pinch-zoom gestures from fighting with
+// OrbitControls' wheel handling — this is the usual cause of "jumpy" zoom,
+// and it's worse inside a scrollable iframe embed like a Canvas page.
+labelRenderer.domElement.style.touchAction = 'none';
 // Note: no pointer-events:none here — see the matching comment in the
 // editor's app.js for why.
 canvasHost.appendChild(labelRenderer.domElement);
@@ -86,6 +90,7 @@ canvasHost.appendChild(labelRenderer.domElement);
 const controls = new OrbitControls(camera, labelRenderer.domElement);
 controls.enableDamping = true;
 controls.dampingFactor = 0.08;
+controls.zoomSpeed = 0.6; // gentler, more predictable zoom steps
 controls.target.set(0, 95, 0);
 camera.position.set(60, 120, 230);
 controls.update();
