@@ -1,0 +1,193 @@
+{
+  "generatedAt": "2026-08-10T02:21:38.663Z",
+  "units": "cm",
+  "landmarks": [
+    {
+      "id": "lasis",
+      "name": "Left ASIS",
+      "abbr": "LASIS",
+      "group": "pelvis",
+      "position": {
+        "x": 12.543666170106235,
+        "y": 106.89449016719676,
+        "z": 2.7909338307276172
+      }
+    },
+    {
+      "id": "rasis",
+      "name": "Right ASIS",
+      "abbr": "RASIS",
+      "group": "pelvis",
+      "position": {
+        "x": -10.801132793522136,
+        "y": 109.18432912241391,
+        "z": 2.1096934675946954
+      }
+    },
+    {
+      "id": "lpsis",
+      "name": "Left PSIS",
+      "abbr": "LPSIS",
+      "group": "pelvis",
+      "position": {
+        "x": 6.439118059533733,
+        "y": 109.72473677862467,
+        "z": -5.456989412309895
+      }
+    },
+    {
+      "id": "rpsis",
+      "name": "Right PSIS",
+      "abbr": "RPSIS",
+      "group": "pelvis",
+      "position": {
+        "x": -5.936156372431951,
+        "y": 110.04268040039952,
+        "z": -5.090763931039177
+      }
+    },
+    {
+      "id": "c7",
+      "name": "C7 spinous process",
+      "abbr": "C7",
+      "group": "thorax",
+      "position": {
+        "x": 0.07758417831504083,
+        "y": 153.1355981656264,
+        "z": -7.430851481712345
+      }
+    },
+    {
+      "id": "t8",
+      "name": "T8 spinous process",
+      "abbr": "T8",
+      "group": "thorax",
+      "position": {
+        "x": -0.15448088228722767,
+        "y": 133.44311600490485,
+        "z": -12.146462979306506
+      }
+    },
+    {
+      "id": "sn",
+      "name": "Sternal notch",
+      "abbr": "SN",
+      "group": "thorax",
+      "position": {
+        "x": -0.5541376428424343,
+        "y": 150.1679248655615,
+        "z": 2.340591705578092
+      }
+    },
+    {
+      "id": "xp",
+      "name": "Xiphoid process",
+      "abbr": "XP",
+      "group": "thorax",
+      "position": {
+        "x": 0.04843118482600062,
+        "y": 133.8740223407832,
+        "z": 8.692734450707235
+      }
+    },
+    {
+      "id": "l_acr",
+      "name": "Left acromion",
+      "abbr": "L ACR",
+      "group": "thorax",
+      "position": {
+        "x": 16.74063616455105,
+        "y": 150.01022269455117,
+        "z": -4.94861536452845
+      }
+    },
+    {
+      "id": "r_acr",
+      "name": "Right acromion",
+      "abbr": "R ACR",
+      "group": "thorax",
+      "position": {
+        "x": -17.223523876563373,
+        "y": 150.047951077135,
+        "z": -4.257322400159737
+      }
+    },
+    {
+      "id": "mid_hum",
+      "name": "Mid-humerus",
+      "abbr": "MID-HUM",
+      "group": "arm",
+      "position": {
+        "x": -19.569500303347425,
+        "y": 133.803570118435,
+        "z": -8.240781960838824
+      }
+    },
+    {
+      "id": "lat_epi",
+      "name": "Lateral epicondyle (humerus)",
+      "abbr": "LAT-EPI",
+      "group": "arm",
+      "position": {
+        "x": -22.768813914677253,
+        "y": 118.73363137847676,
+        "z": -9.745768500283575
+      }
+    },
+    {
+      "id": "med_epi",
+      "name": "Medial epicondyle (humerus)",
+      "abbr": "MED-EPI",
+      "group": "arm",
+      "position": {
+        "x": -16.499199571277202,
+        "y": 117.58416134246497,
+        "z": -9.597713359354287
+      }
+    },
+    {
+      "id": "mid_fa",
+      "name": "Mid-forearm",
+      "abbr": "MID-FA",
+      "group": "arm",
+      "position": {
+        "x": -22.626203100972305,
+        "y": 101.61639515615568,
+        "z": -5.263791363035445
+      }
+    },
+    {
+      "id": "sty_rad",
+      "name": "Radial styloid process",
+      "abbr": "STY-RAD",
+      "group": "arm",
+      "position": {
+        "x": -23.3980849351806,
+        "y": 87.52195599345137,
+        "z": -2.2208409531592253
+      }
+    },
+    {
+      "id": "sty_uln",
+      "name": "Ulnar styloid process",
+      "abbr": "STY-ULN",
+      "group": "arm",
+      "position": {
+        "x": -19.040164311018348,
+        "y": 87.8149752274625,
+        "z": -5.915596645786437
+      }
+    },
+    {
+      "id": "met3",
+      "name": "3rd metacarpal head",
+      "abbr": "MET3",
+      "group": "arm",
+      "position": {
+        "x": -20.67881055429468,
+        "y": 78.49930572815558,
+        "z": -4.278560692649087
+      }
+    }
+  ]
+}

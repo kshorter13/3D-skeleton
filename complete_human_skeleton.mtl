@@ -1,0 +1,162 @@
+newmtl sternum_Mat
+Ni 1.600
+Ka 0 0 0
+Pm 0
+d 1.0
+Ke 0.0
+Kd 0.511 0.511 0.511
+adobe_map_normal complete_human_skeleton/sternum_normal.png
+Tr 0
+illum 7
+Ks 1 1 1
+adobe_map_roughness complete_human_skeleton/sternum_Mat_roughness.png
+adobe_interior_color 1.0 1.0 1.0
+adobe_density 0
+Ns 16
+adobe_translucence 0
+newmtl spine_Mat
+Ni 1.600
+Ka 0 0 0
+Pm 0
+d 1.0
+Ke 0.0
+Kd 0 0 0
+adobe_map_normal complete_human_skeleton/spine_normal.png
+map_Kd complete_human_skeleton/spine_baseColor.png
+Tr 0
+illum 7
+Ks 1 1 1
+adobe_map_roughness complete_human_skeleton/spine_Mat_roughness.png
+adobe_interior_color 1.0 1.0 1.0
+adobe_density 0
+Ns 16
+adobe_translucence 0
+newmtl pelvis_Mat
+Ni 1.600
+Ka 0 0 0
+Pm 0
+d 1.0
+Ke 0.0
+Kd 0.511 0.511 0.511
+adobe_map_normal complete_human_skeleton/pelvis_normal.png
+Tr 0
+illum 7
+Ks 1 1 1
+adobe_map_roughness complete_human_skeleton/pelvis_Mat_roughness.png
+adobe_interior_color 1.0 1.0 1.0
+adobe_density 0
+Ns 16
+adobe_translucence 0
+newmtl arm_forearm_hand_Mat
+Ni 1.600
+Ka 0 0 0
+Pm 0
+d 1.0
+Ke 0.0
+Kd 0.511 0.511 0.511
+adobe_map_normal complete_human_skeleton/arm_forearm_hand_normal.png
+Tr 0
+illum 7
+Ks 1 1 1
+adobe_map_roughness complete_human_skeleton/arm_forearm_hand_Mat_roughness.png
+adobe_interior_color 1.0 1.0 1.0
+adobe_density 0
+Ns 16
+adobe_translucence 0
+newmtl ribs_Mat
+Ni 1.600
+Ka 0 0 0
+Pm 0
+d 1.0
+Ke 0.0
+Kd 0.511 0.511 0.511
+adobe_map_normal complete_human_skeleton/ribs_normal.png
+Tr 0
+illum 7
+Ks 1 1 1
+adobe_map_roughness complete_human_skeleton/ribs_Mat_roughness.png
+adobe_interior_color 1.0 1.0 1.0
+adobe_density 0
+Ns 16
+adobe_translucence 0
+newmtl skull_Mat
+Ni 1.600
+Ka 0 0 0
+Pm 0
+d 1.0
+Ke 0.0
+Kd 0.511 0.511 0.511
+adobe_map_normal complete_human_skeleton/skull_normal.png
+Tr 0
+illum 7
+Ks 1 1 1
+adobe_map_roughness complete_human_skeleton/skull_Mat_roughness.png
+adobe_interior_color 1.0 1.0 1.0
+adobe_density 0
+Ns 16
+adobe_translucence 0
+newmtl clavicula_and_scapula_Mat
+Ni 1.600
+Ka 0 0 0
+Pm 0
+d 1.0
+Ke 0.0
+Kd 0.511 0.511 0.511
+adobe_map_normal complete_human_skeleton/clavicula_and_scapula_normal.png
+Tr 0
+illum 7
+Ks 1 1 1
+adobe_map_roughness complete_human_skeleton/clavicula_and_scapula_Mat_roughness.png
+adobe_interior_color 1.0 1.0 1.0
+adobe_density 0
+Ns 16
+adobe_translucence 0
+newmtl cartilages_Mat
+Ni 1.600
+Ka 0 0 0
+Pm 0
+d 1.0
+Ke 0.0
+Kd 0 0 0
+adobe_map_normal complete_human_skeleton/cartilages_normal.png
+map_Kd complete_human_skeleton/cartilages_baseColor.png
+Tr 0
+illum 7
+Ks 1 1 1
+adobe_map_roughness complete_human_skeleton/cartilages_Mat_roughness.png
+adobe_interior_color 1.0 1.0 1.0
+adobe_density 0
+Ns 16
+adobe_translucence 0
+newmtl jaw_and_teeth_Mat
+Ni 1.600
+Ka 0 0 0
+Pm 0
+d 1.0
+Ke 0.0
+Kd 0.511 0.511 0.511
+adobe_map_normal complete_human_skeleton/jaw_and_teeth_normal.png
+Tr 0
+illum 7
+Ks 1 1 1
+adobe_map_roughness complete_human_skeleton/jaw_and_teeth_Mat_roughness.png
+adobe_interior_color 1.0 1.0 1.0
+adobe_density 0
+Ns 16
+adobe_translucence 0
+newmtl femur_tibia_fibula_patella_foot_Mat
+Ni 1.600
+Ka 0 0 0
+Pm 0
+d 1.0
+Ke 0.0
+Kd 0.511 0.511 0.511
+adobe_map_normal complete_human_skeleton/femur_tibia_fibula_patella_foot_normal.png
+Tr 0
+illum 7
+Ks 1 1 1
+adobe_map_roughness complete_human_skeleton/femur_tibia_fibula_patella_foot_Mat_roughness.png
+adobe_interior_color 1.0 1.0 1.0
+adobe_density 0
+Ns 16
+adobe_translucence 0
